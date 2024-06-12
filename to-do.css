@@ -28,14 +28,14 @@ button {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #b88a60fa;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #e6ae79fa;
 }
 
 ul {
